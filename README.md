@@ -87,12 +87,6 @@ We believe in the power of open source. If you have new ideas, want to report a 
 
 **[Shuvo](https://github.com/Shuvo-code-dev)** — Creator & Lead Maintainer
 
-## 🌐 Official Ecosystem
-
-| Framework | Link |
-| :--- | :--- |
-| **Vue.js** | [vue-orbuz.dev](https://oi-orbuz.netlify.app/vue) (Coming Soon) |
-
 ## 📊 Performance Analytics
 
 ![Analytics](https://repobeats.axiom.co/api/embed/b1bf4dc0226458617adbdbf5586f2df953eb0922.svg)
