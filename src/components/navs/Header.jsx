@@ -31,7 +31,7 @@ import { useSearch } from '../context/SearchContext/useSearch';
 import { useOptions } from '../context/OptionsContext/useOptions';
 import FadeContent from '../../content/Animations/FadeContent/FadeContent';
 
-import Logo from '../../assets/logos/oi-orbuz-logo.svg';
+import Logo from '../../assets/logos/react-bits-logo.svg';
 import Star from '../../assets/common/star.svg';
 import jsIcon from '../../assets/icons/js.svg';
 import tsIcon from '../../assets/icons/ts.svg';

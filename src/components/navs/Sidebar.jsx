@@ -12,7 +12,7 @@ import { CATEGORIES, NEW, UPDATED } from '../../constants/Categories';
 import { componentMap } from '../../constants/Components';
 import { getSavedComponents } from '../../utils/favorites';
 
-import Logo from '../../assets/logos/oi-orbuz-logo.svg';
+import Logo from '../../assets/logos/react-bits-logo.svg';
 import SponsorsCard from '../common/SponsorsCard';
 
 // ─── Constants ───────────────────────────────────────────────────────────────
@@ -109,6 +109,7 @@ const HoverLine = ({ position, isVisible }) => (
   />
 );
 
+// eslint-disable-next-line no-unused-vars
 const MobileHeader = ({ onSearchClick, onSponsorsClick, onMenuClick }) => (
   <Box display={{ md: 'none' }} position="fixed" top="60px" left={0} zIndex="overlay" w="100%" bg={colors.bgBody} p="1em">
     <Flex align="center" justify="space-between" gap="1em">
@@ -406,6 +407,7 @@ const Sidebar = () => {
   // Handlers
   const closeDrawer = useCallback(() => setDrawerOpen(false), []);
 
+  // eslint-disable-next-line no-unused-vars
   const handleSearchClick = useCallback(() => {
     closeDrawer();
     toggleSearch();

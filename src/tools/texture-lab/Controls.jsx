@@ -49,7 +49,7 @@ import {
   Palette as PaletteIcon,
   Dices
 } from 'lucide-react';
-import { useState, useCallback, useRef, useMemo, memo } from 'react';
+import { useState, useCallback, useRef, memo } from 'react';
 import { toaster } from '../../components/setup/toaster';
 import PreviewSlider from '../../components/common/Preview/PreviewSlider';
 import PreviewSelect from '../../components/common/Preview/PreviewSelect';
@@ -907,6 +907,8 @@ const EffectCard = memo(({
     </Box>
   );
 });
+
+EffectCard.displayName = 'EffectCard';
 
 const EFFECT_CATEGORIES = {
   texture: {

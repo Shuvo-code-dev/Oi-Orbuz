@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import { motion } from 'motion/react';
 import { AiFillHeart } from 'react-icons/ai';
-import OiOrbuzLogo from '../../../assets/logos/oi-orbuz-logo.svg';
+import OiOrbuzLogo from '../../../assets/logos/react-bits-logo.svg';
 import './Footer.css';
 
 const Footer = () => (

@@ -181,6 +181,7 @@ export const StaggeredMenu = ({
 
     openTlRef.current = tl;
     return tl;
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const playOpen = useCallback(() => {

@@ -305,6 +305,7 @@ const LightPillar = ({
       geometryRef.current = null;
       rafRef.current = null;
     };
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [webGLSupported, quality]);
 
   useEffect(() => {

@@ -1,3 +1,4 @@
+/* eslint-disable react-refresh/only-export-components */
 import { Button, Icon } from '@chakra-ui/react';
 import { Palette } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
