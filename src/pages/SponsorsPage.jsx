@@ -56,7 +56,7 @@ const SponsorsPage = () => {
             </p>
           </div>
           <a
-            href="mailto:contact@davidhaz.com?subject=React%20Bits%20Sponsorship%20Inquiry"
+            href="mailto:shuvo.error2011@gmail.com?subject=Oi%20Orbuz%20Sponsorship%20Inquiry"
             className="sponsors-page-cta"
           >
             Become a Sponsor <FaArrowRight size={12} />
@@ -130,7 +130,7 @@ const SponsorsPage = () => {
             Get your brand in front of <strong>500K+</strong> developers monthly
           </p>
           <a
-            href="mailto:contact@davidhaz.com?subject=React%20Bits%20Sponsorship%20Inquiry"
+            href="mailto:shuvo.error2011@gmail.com?subject=Oi%20Orbuz%20Sponsorship%20Inquiry"
             className="sponsors-bottom-cta-btn"
           >
             Become a Sponsor <ArrowRight size={14} />
