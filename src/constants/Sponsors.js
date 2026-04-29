@@ -2,41 +2,34 @@
 export const diamondSponsors = [
   {
     id: 1,
-    name: 'shadcnblocks.com',
+    name: 'Tiny Gadgets',
     imageUrl: '/assets/sponsors/shadcnblocks.svg',
-    url: 'https://www.shadcnblocks.com/'
+    url: 'https://www.tinygadgets.store/'
   },
   {
     id: 2,
-    name: 'shadcn studio',
+    name: 'RupSova',
     imageUrl: '/assets/sponsors/shadcnstudio.svg',
-    url: 'https://shadcnstudio.com/'
+    url: 'https://govaly.com.bd/shop/rupsova/'
   }
 ];
 
 export const platinumSponsors = [
   {
     id: 1,
-    name: 'Tailark',
+    name: 'Oi Jayga',
     imageUrl: '/assets/sponsors/tailark.svg',
-    url: 'https://pro.tailark.com'
+    url: 'https://oijayga.space/'
   },
 ];
 
 export const silverSponsors = [
   {
     id: 1,
-    name: 'Next.js Weekly',
+    name: 'Domain Hunter',
     imageUrl: '/assets/sponsors/nextjsweekly.svg',
-    url: 'https://nextjsweekly.com/'
+    url: 'https://domainhunter.xyz/'
   },
-  {
-    id: 2,
-    name: 'Shadcncraft',
-    imageUrl: '/assets/sponsors/shadcncraft.svg',
-    url: 'https://shadcncraft.com/'
-  }
-];
 
 export const hasSponsors = diamondSponsors.length > 0 || platinumSponsors.length > 0 || silverSponsors.length > 0;
 export const hasDiamondSponsors = diamondSponsors.length > 0;
