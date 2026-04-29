@@ -1,823 +1,823 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://reactbits.dev/</loc>
+    <loc>https://oi-orbuz.vercel.app/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/showcase</loc>
+    <loc>https://oi-orbuz.vercel.app/showcase</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/sponsors</loc>
+    <loc>https://oi-orbuz.vercel.app/sponsors</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/favorites</loc>
+    <loc>https://oi-orbuz.vercel.app/favorites</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/get-started/introduction</loc>
+    <loc>https://oi-orbuz.vercel.app/get-started/introduction</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/get-started/installation</loc>
+    <loc>https://oi-orbuz.vercel.app/get-started/installation</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/get-started/mcp</loc>
+    <loc>https://oi-orbuz.vercel.app/get-started/mcp</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/text-animations/split-text</loc>
+    <loc>https://oi-orbuz.vercel.app/text-animations/split-text</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/text-animations/blur-text</loc>
+    <loc>https://oi-orbuz.vercel.app/text-animations/blur-text</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/text-animations/circular-text</loc>
+    <loc>https://oi-orbuz.vercel.app/text-animations/circular-text</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/text-animations/text-type</loc>
+    <loc>https://oi-orbuz.vercel.app/text-animations/text-type</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/text-animations/shuffle</loc>
+    <loc>https://oi-orbuz.vercel.app/text-animations/shuffle</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/text-animations/shiny-text</loc>
+    <loc>https://oi-orbuz.vercel.app/text-animations/shiny-text</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/text-animations/text-pressure</loc>
+    <loc>https://oi-orbuz.vercel.app/text-animations/text-pressure</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/text-animations/curved-loop</loc>
+    <loc>https://oi-orbuz.vercel.app/text-animations/curved-loop</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/text-animations/fuzzy-text</loc>
+    <loc>https://oi-orbuz.vercel.app/text-animations/fuzzy-text</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/text-animations/gradient-text</loc>
+    <loc>https://oi-orbuz.vercel.app/text-animations/gradient-text</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/text-animations/falling-text</loc>
+    <loc>https://oi-orbuz.vercel.app/text-animations/falling-text</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/text-animations/text-cursor</loc>
+    <loc>https://oi-orbuz.vercel.app/text-animations/text-cursor</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/text-animations/decrypted-text</loc>
+    <loc>https://oi-orbuz.vercel.app/text-animations/decrypted-text</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/text-animations/true-focus</loc>
+    <loc>https://oi-orbuz.vercel.app/text-animations/true-focus</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/text-animations/scroll-float</loc>
+    <loc>https://oi-orbuz.vercel.app/text-animations/scroll-float</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/text-animations/scroll-reveal</loc>
+    <loc>https://oi-orbuz.vercel.app/text-animations/scroll-reveal</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/text-animations/ascii-text</loc>
+    <loc>https://oi-orbuz.vercel.app/text-animations/ascii-text</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/text-animations/scrambled-text</loc>
+    <loc>https://oi-orbuz.vercel.app/text-animations/scrambled-text</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/text-animations/rotating-text</loc>
+    <loc>https://oi-orbuz.vercel.app/text-animations/rotating-text</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/text-animations/glitch-text</loc>
+    <loc>https://oi-orbuz.vercel.app/text-animations/glitch-text</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/text-animations/scroll-velocity</loc>
+    <loc>https://oi-orbuz.vercel.app/text-animations/scroll-velocity</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/text-animations/variable-proximity</loc>
+    <loc>https://oi-orbuz.vercel.app/text-animations/variable-proximity</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/text-animations/count-up</loc>
+    <loc>https://oi-orbuz.vercel.app/text-animations/count-up</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/animated-content</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/animated-content</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/fade-content</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/fade-content</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/electric-border</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/electric-border</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/orbit-images</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/orbit-images</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/pixel-transition</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/pixel-transition</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/glare-hover</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/glare-hover</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/antigravity</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/antigravity</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/logo-loop</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/logo-loop</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/target-cursor</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/target-cursor</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/magic-rings</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/magic-rings</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/laser-flow</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/laser-flow</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/magnet-lines</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/magnet-lines</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/ghost-cursor</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/ghost-cursor</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/gradual-blur</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/gradual-blur</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/click-spark</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/click-spark</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/magnet</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/magnet</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/sticker-peel</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/sticker-peel</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/pixel-trail</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/pixel-trail</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/cubes</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/cubes</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/metallic-paint</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/metallic-paint</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/noise</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/noise</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/shape-blur</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/shape-blur</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/crosshair</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/crosshair</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/image-trail</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/image-trail</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/ribbons</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/ribbons</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/splash-cursor</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/splash-cursor</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/meta-balls</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/meta-balls</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/blob-cursor</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/blob-cursor</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/animations/star-border</loc>
+    <loc>https://oi-orbuz.vercel.app/animations/star-border</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/animated-list</loc>
+    <loc>https://oi-orbuz.vercel.app/components/animated-list</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/scroll-stack</loc>
+    <loc>https://oi-orbuz.vercel.app/components/scroll-stack</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/bubble-menu</loc>
+    <loc>https://oi-orbuz.vercel.app/components/bubble-menu</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/magic-bento</loc>
+    <loc>https://oi-orbuz.vercel.app/components/magic-bento</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/circular-gallery</loc>
+    <loc>https://oi-orbuz.vercel.app/components/circular-gallery</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/reflective-card</loc>
+    <loc>https://oi-orbuz.vercel.app/components/reflective-card</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/card-nav</loc>
+    <loc>https://oi-orbuz.vercel.app/components/card-nav</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/stack</loc>
+    <loc>https://oi-orbuz.vercel.app/components/stack</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/fluid-glass</loc>
+    <loc>https://oi-orbuz.vercel.app/components/fluid-glass</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/pill-nav</loc>
+    <loc>https://oi-orbuz.vercel.app/components/pill-nav</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/tilted-card</loc>
+    <loc>https://oi-orbuz.vercel.app/components/tilted-card</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/masonry</loc>
+    <loc>https://oi-orbuz.vercel.app/components/masonry</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/glass-surface</loc>
+    <loc>https://oi-orbuz.vercel.app/components/glass-surface</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/dome-gallery</loc>
+    <loc>https://oi-orbuz.vercel.app/components/dome-gallery</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/chroma-grid</loc>
+    <loc>https://oi-orbuz.vercel.app/components/chroma-grid</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/folder</loc>
+    <loc>https://oi-orbuz.vercel.app/components/folder</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/staggered-menu</loc>
+    <loc>https://oi-orbuz.vercel.app/components/staggered-menu</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/model-viewer</loc>
+    <loc>https://oi-orbuz.vercel.app/components/model-viewer</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/lanyard</loc>
+    <loc>https://oi-orbuz.vercel.app/components/lanyard</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/profile-card</loc>
+    <loc>https://oi-orbuz.vercel.app/components/profile-card</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/dock</loc>
+    <loc>https://oi-orbuz.vercel.app/components/dock</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/gooey-nav</loc>
+    <loc>https://oi-orbuz.vercel.app/components/gooey-nav</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/pixel-card</loc>
+    <loc>https://oi-orbuz.vercel.app/components/pixel-card</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/carousel</loc>
+    <loc>https://oi-orbuz.vercel.app/components/carousel</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/spotlight-card</loc>
+    <loc>https://oi-orbuz.vercel.app/components/spotlight-card</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/border-glow</loc>
+    <loc>https://oi-orbuz.vercel.app/components/border-glow</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/flying-posters</loc>
+    <loc>https://oi-orbuz.vercel.app/components/flying-posters</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/card-swap</loc>
+    <loc>https://oi-orbuz.vercel.app/components/card-swap</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/glass-icons</loc>
+    <loc>https://oi-orbuz.vercel.app/components/glass-icons</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/decay-card</loc>
+    <loc>https://oi-orbuz.vercel.app/components/decay-card</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/flowing-menu</loc>
+    <loc>https://oi-orbuz.vercel.app/components/flowing-menu</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/elastic-slider</loc>
+    <loc>https://oi-orbuz.vercel.app/components/elastic-slider</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/counter</loc>
+    <loc>https://oi-orbuz.vercel.app/components/counter</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/infinite-menu</loc>
+    <loc>https://oi-orbuz.vercel.app/components/infinite-menu</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/stepper</loc>
+    <loc>https://oi-orbuz.vercel.app/components/stepper</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/components/bounce-cards</loc>
+    <loc>https://oi-orbuz.vercel.app/components/bounce-cards</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/liquid-ether</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/liquid-ether</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/prism</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/prism</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/dark-veil</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/dark-veil</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/light-pillar</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/light-pillar</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/silk</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/silk</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/floating-lines</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/floating-lines</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/light-rays</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/light-rays</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/pixel-blast</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/pixel-blast</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/color-bends</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/color-bends</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/evil-eye</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/evil-eye</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/line-waves</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/line-waves</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/radar</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/radar</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/soft-aurora</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/soft-aurora</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/aurora</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/aurora</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/plasma</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/plasma</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/plasma-wave</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/plasma-wave</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/particles</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/particles</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/gradient-blinds</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/gradient-blinds</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/grainient</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/grainient</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/grid-scan</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/grid-scan</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/beams</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/beams</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/pixel-snow</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/pixel-snow</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/lightning</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/lightning</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/prismatic-burst</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/prismatic-burst</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/galaxy</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/galaxy</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/dither</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/dither</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/faulty-terminal</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/faulty-terminal</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/ripple-grid</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/ripple-grid</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/dot-field</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/dot-field</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/dot-grid</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/dot-grid</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/threads</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/threads</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/hyperspeed</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/hyperspeed</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/iridescence</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/iridescence</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/waves</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/waves</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/grid-distortion</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/grid-distortion</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/ballpit</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/ballpit</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/orb</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/orb</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/letter-glitch</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/letter-glitch</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/grid-motion</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/grid-motion</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/shape-grid</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/shape-grid</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/liquid-chrome</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/liquid-chrome</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://reactbits.dev/backgrounds/balatro</loc>
+    <loc>https://oi-orbuz.vercel.app/backgrounds/balatro</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>

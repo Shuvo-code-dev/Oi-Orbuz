@@ -33,7 +33,7 @@ const CTA = () => {
                 Browse Components <FiArrowRight size={15} />
               </Link>
               <a
-                href="https://github.com/DavidHDev/react-bits"
+                href="https://github.com/Shuvo-code-dev/oi-orbuz"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="ln-cta-btn ln-cta-btn--secondary"

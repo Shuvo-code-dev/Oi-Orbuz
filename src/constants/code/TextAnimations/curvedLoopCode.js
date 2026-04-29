@@ -8,7 +8,7 @@ export const curvedLoop = {
   usage: `import CurvedLoop from './CurvedLoop';
 
 // Basic usage
-<CurvedLoop marqueeText="Welcome to React Bits ✦" />
+<CurvedLoop marqueeText="Welcome to Oi Orbuz ✦" />
 
 // With custom props
 <CurvedLoop 

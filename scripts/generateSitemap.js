@@ -3,7 +3,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const BASE_URL = 'https://reactbits.dev';
+const BASE_URL = 'https://oi-orbuz.vercel.app';
 
 const toSlug = name => name.toLowerCase().replace(/\s+/g, '-');
 const categoriesPath = path.join(__dirname, '../src/constants/Categories.js');

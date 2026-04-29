@@ -12,7 +12,7 @@ import CodeExample from '../../components/code/CodeExample';
 import PropTable from '../../components/common/Preview/PropTable';
 import PreviewSelect from '../../components/common/Preview/PreviewSelect';
 import PreviewSlider from '../../components/common/Preview/PreviewSlider';
-import logo from '../../assets/logos/react-bits-logo-small.svg';
+import logo from '../../assets/logos/oi-orbuz-logo-small.svg';
 
 import LiquidEther from '@/content/Backgrounds/LiquidEther/LiquidEther';
 import { glassSurface } from '../../constants/code/Components/glassSurfaceCode';
@@ -350,7 +350,7 @@ const GlassSurfaceDemo = () => {
 
                 <Box position="absolute" top="2em" left={0} width="100%" height="60px" zIndex={0} pointerEvents="none">
                   <GlassSurface className="custom-glass-surface" width="90%" height={60} {...commonGlassProps}>
-                    <img src={logo} alt="React Bits Logo" style={{ height: '24px', borderRadius: '50px' }} />
+                    <img src={logo} alt="Oi Orbuz Logo" style={{ height: '24px', borderRadius: '50px' }} />
 
                     <Box display={{ base: 'flex', md: 'none' }} alignItems="center" color="white">
                       <TbMenu size={20} />

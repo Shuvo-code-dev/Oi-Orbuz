@@ -1,4 +1,4 @@
-# React Bits – New Component Creation Context
+# Oi Orbuz – New Component Creation Context
 
 This file provides complete, concrete context for an AI agent to reliably create new components in this repository. It is based on the OrbitImages component as a reference implementation.
 
@@ -241,7 +241,7 @@ export const NEW = ['Component Name', ...];
   description: 'Short description.',
   category: 'Category',
   name: 'ComponentName',
-  docsUrl: 'https://reactbits.dev/category/kebab-case-name',
+  docsUrl: 'https://oi-orbuz.vercel.app/category/kebab-case-name',
   tags: []
 },
 ```

@@ -58,13 +58,13 @@ function buildComponentSection(category, comps) {
       const titleHuman = pascalToTitle(c.name);
       const description = c.description ? c.description.replace(/\s+/g, ' ').trim() : '';
       const descriptionSentence = description.endsWith('.') ? description : description + (description ? '.' : '');
-      return `- [${titleHuman}](https://www.reactbits.dev/${slugBase}/${kebab}): ${descriptionSentence} CLI: \`${c.name}\`.`;
+      return `- [${titleHuman}](https://www.oi-orbuz.vercel.app/${slugBase}/${kebab}): ${descriptionSentence} CLI: \`${c.name}\`.`;
     });
   return `## ${pascalToTitle(category)}\n\n${entries.join('\n')}\n`;
 }
 
 const INTRO_LINES = [
-  'React Bits is an open source collection of memorable UI elements - Components, Animations, Backgrounds, and Text Animations - provided in four implementation variants: JavaScript + CSS, JavaScript + Tailwind, TypeScript + CSS, and TypeScript + Tailwind.',
+  'Oi Orbuz is an open source collection of memorable UI elements - Components, Animations, Backgrounds, and Text Animations - provided in four implementation variants: JavaScript + CSS, JavaScript + Tailwind, TypeScript + CSS, and TypeScript + Tailwind.',
   'Components are copy-friendly and installable via CLI (jsrepo or shadcn).'
 ];
 
@@ -77,39 +77,39 @@ const AGENT_NOTES = [
 const DOC_LINKS = [
   {
     label: 'Homepage',
-    url: 'https://www.reactbits.dev',
+    url: 'https://www.oi-orbuz.vercel.app',
     note: 'Landing page, quick presentation of the library, testimonials.'
   },
   {
     label: 'Introduction',
-    url: 'https://www.reactbits.dev/get-started/introduction',
+    url: 'https://www.oi-orbuz.vercel.app/get-started/introduction',
     note: 'Project mission and principles.'
   },
   {
     label: 'Installation',
-    url: 'https://www.reactbits.dev/get-started/installation',
+    url: 'https://www.oi-orbuz.vercel.app/get-started/installation',
     note: 'Manual copy and CLI commands (jsrepo, shadcn).'
   },
   {
     label: 'MCP Setup',
-    url: 'https://www.reactbits.dev/get-started/mcp',
+    url: 'https://www.oi-orbuz.vercel.app/get-started/mcp',
     note: 'Set up a MCP server to help you with development.'
   }
 ];
 
 const CLI_INSTRUCTIONS = {
   shadcn: {
-    command: 'npx shadcn@latest add https://reactbits.dev/r/<Component>-<LANG>-<STYLE>',
+    command: 'npx shadcn@latest add https://oi-orbuz.vercel.app/r/<Component>-<LANG>-<STYLE>',
     params: [
       '<LANG>: JS | TS; <STYLE>: CSS | TW',
-      'Example: npx shadcn@latest add https://reactbits.dev/r/SplitText-JS-CSS'
+      'Example: npx shadcn@latest add https://oi-orbuz.vercel.app/r/SplitText-JS-CSS'
     ]
   },
   jsrepo: {
-    command: 'npx jsrepo@latest add https://reactbits.dev/r/<Component>-<LANG>-<STYLE>',
+    command: 'npx jsrepo@latest add https://oi-orbuz.vercel.app/r/<Component>-<LANG>-<STYLE>',
     params: [
       '<LANG>: JS | TS; <STYLE>: CSS | TW',
-      'Example: npx jsrepo@latest add https://reactbits.dev/r/SplitText-JS-CSS'
+      'Example: npx jsrepo@latest add https://oi-orbuz.vercel.app/r/SplitText-JS-CSS'
     ]
   },
   notes: [
@@ -143,8 +143,8 @@ const KEY_DEPENDENCIES = [
 const MCP_LINKS = [
   {
     label: 'MCP Setup',
-    url: 'https://www.reactbits.dev/get-started/mcp',
-    note: 'How AI agents can browse/search React Bits.'
+    url: 'https://www.oi-orbuz.vercel.app/get-started/mcp',
+    note: 'How AI agents can browse/search Oi Orbuz.'
   },
   { label: 'Model Context Protocol', url: 'https://modelcontextprotocol.io/', note: 'Protocol reference.' }
 ];
@@ -164,7 +164,7 @@ function section(title, lines) {
 
 function buildHeader() {
   const intro = [
-    '# React Bits',
+    '# Oi Orbuz',
     '',
     `> ${INTRO_LINES[0]} ${INTRO_LINES[1]}`,
     '',

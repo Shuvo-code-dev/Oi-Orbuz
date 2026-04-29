@@ -21,7 +21,7 @@ const formatNumber = num => {
 
 export const getStarsCount = async () => {
   try {
-    const response = await fetch('https://api.github.com/repos/DavidHDev/react-bits');
+    const response = await fetch('https://api.github.com/repos/Shuvo-code-dev/oi-orbuz');
     const data = await response.json();
 
     if (typeof data.stargazers_count !== 'number') {

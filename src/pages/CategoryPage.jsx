@@ -35,7 +35,7 @@ const CategoryPage = () => {
 
   useEffect(() => {
     if (decodedLabel) {
-      document.title = `React Bits - ${decodedLabel}`;
+      document.title = `Oi Orbuz - ${decodedLabel}`;
     }
   }, [decodedLabel]);
 

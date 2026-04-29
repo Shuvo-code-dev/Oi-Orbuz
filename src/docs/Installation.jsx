@@ -89,7 +89,7 @@ const CliSteps = () => (
     <p className="docs-paragraph dim">Use a one-time command to pull any component directly into your project.</p>
 
     <p className="docs-paragraph">
-      React Bits supports two CLI installation methods:{' '}
+      Oi Orbuz supports two CLI installation methods:{' '}
       <a style={{ textDecoration: 'underline' }} href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
         shadcn
       </a>{' '}
@@ -109,14 +109,14 @@ const CliSteps = () => (
       shadcn
     </h4>
     <p className="docs-paragraph short"></p>
-    <CodeBlock>{`npx shadcn@latest add https://reactbits.dev/r/<Component>-<LANG>-<STYLE>`}</CodeBlock>
+    <CodeBlock>{`npx shadcn@latest add https://oi-orbuz.vercel.app/r/<Component>-<LANG>-<STYLE>`}</CodeBlock>
     <VariantList label="<LANGUAGE> + <STYLE> combinations:" variants={SHADCN_VARIANTS} />
 
     <h4 className="docs-category-subtitle docs-highlight" style={{ marginTop: '1.25rem' }}>
       jsrepo
     </h4>
     <p className="docs-paragraph short"></p>
-    <CodeBlock>{`npx jsrepo@latest add https://reactbits.dev/r/<Component>-<LANG>-<STYLE>`}</CodeBlock>
+    <CodeBlock>{`npx jsrepo@latest add https://oi-orbuz.vercel.app/r/<Component>-<LANG>-<STYLE>`}</CodeBlock>
     <VariantList label="<VARIANT> options:" variants={JSREPO_VARIANTS} />
 
     <p className="docs-paragraph dim" style={{ marginTop: '1rem' }}>

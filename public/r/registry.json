@@ -1,7 +1,7 @@
 {
 	"$schema": "https://ui.shadcn.com/schema/registry.json",
-	"name": "@react-bits",
-	"homepage": "https://reactbits.dev",
+	"name": "@oi-orbuz",
+	"homepage": "https://oi-orbuz.vercel.app",
 	"items": [
 		{
 			"name": "AnimatedContent-JS-CSS",

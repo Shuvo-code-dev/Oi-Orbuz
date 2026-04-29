@@ -3,7 +3,7 @@ import { Box, Text } from '@chakra-ui/react';
 import { TbMenu } from 'react-icons/tb';
 
 import PreviewSwitch from './PreviewSwitch';
-import logo from '../../../assets/logos/react-bits-logo.svg';
+import logo from '../../../assets/logos/oi-orbuz-logo.svg';
 
 const BackgroundContent = ({
   headline = 'Build interfaces that feel alive'

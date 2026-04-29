@@ -9,7 +9,7 @@ export const scrollVelocity = {
   usage: `import ScrollVelocity from './ScrollVelocity';
   
 <ScrollVelocity
-  texts={['React Bits', 'Scroll Down']} 
+  texts={['Oi Orbuz', 'Scroll Down']} 
   velocity={velocity} 
   className="custom-scroll-text"
 />`,

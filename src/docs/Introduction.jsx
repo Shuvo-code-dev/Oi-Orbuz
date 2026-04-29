@@ -9,7 +9,7 @@ const Introduction = () => {
       <h3 className="docs-category-title">Introduction</h3>
 
       <p className="docs-paragraph dim">
-        React Bits is an open-source collection of carefully designed UI components that aim to enhance your React web
+        Oi Orbuz is an open-source collection of carefully designed UI components that aim to enhance your React web
         applications.
       </p>
       <p className="docs-paragraph">
@@ -26,7 +26,7 @@ const Introduction = () => {
       <h3 className="docs-category-title">Mission</h3>
 
       <p className="docs-paragraph dim">
-        The goal of React Bits is simple - provide flexible, visually stunning and most importantly, free components
+        The goal of Oi Orbuz is simple - provide flexible, visually stunning and most importantly, free components
         that take web projects to the next level.
       </p>
       <p className="docs-paragraph">To make that happen, the project is committed to the following principles:</p>
@@ -41,7 +41,7 @@ const Introduction = () => {
           props
         </li>
         <li className="docs-list-item">
-          <span className="docs-highlight">Fully Modular:</span> Install strictly what you need, React Bits is not a
+          <span className="docs-highlight">Fully Modular:</span> Install strictly what you need, Oi Orbuz is not a
           dependency
         </li>
         <li className="docs-list-item">
@@ -66,7 +66,7 @@ const Introduction = () => {
       <h4 className="docs-category-subtitle">Fully Modular</h4>
 
       <p className="docs-paragraph">
-        React Bits is not your classic NPM library, you install only the components you need by either copying the code
+        Oi Orbuz is not your classic NPM library, you install only the components you need by either copying the code
         or using the CLI, without pulling in a whole library.
       </p>
 
@@ -87,7 +87,7 @@ const Introduction = () => {
 
       <p className="docs-paragraph dim">
         While we do everything possible to optimize components and offer the best experience, here are some tips to keep
-        in mind when using React Bits:
+        in mind when using Oi Orbuz:
       </p>
 
       <ul className="docs-list">

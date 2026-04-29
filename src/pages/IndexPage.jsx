@@ -6,7 +6,7 @@ import ComponentList from '../components/common/ComponentList';
 const IndexPage = () => {
   return (
     <Box>
-      <title>{`React Bits - Component Index`}</title>
+      <title>{`Oi Orbuz - Component Index`}</title>
       <ComponentList title="Index" list={componentMetadata} hasFavoriteButton sorting="alphabetical" />
       <BackToTopButton />
     </Box>

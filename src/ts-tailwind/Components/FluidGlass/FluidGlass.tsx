@@ -314,7 +314,7 @@ function Typography() {
       anchorX="center"
       anchorY="middle"
     >
-      React Bits
+      Oi Orbuz
     </Text>
   );
 }

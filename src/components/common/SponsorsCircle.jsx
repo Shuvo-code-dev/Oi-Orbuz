@@ -66,14 +66,14 @@ const buildSponsorUrl = (url, tier) => {
   if (!url) return null;
   try {
     const sponsorUrl = new URL(url);
-    sponsorUrl.searchParams.set('utm_source', 'reactbits');
+    sponsorUrl.searchParams.set('utm_source', 'OiOrbuz');
     sponsorUrl.searchParams.set('utm_medium', 'sponsor');
     sponsorUrl.searchParams.set('utm_campaign', tier);
-    sponsorUrl.searchParams.set('ref', 'reactbits');
+    sponsorUrl.searchParams.set('ref', 'OiOrbuz');
     return sponsorUrl.toString();
   } catch {
     const separator = url.includes('?') ? '&' : '?';
-    return `${url}${separator}utm_source=reactbits&utm_medium=sponsor&utm_campaign=${tier}&ref=reactbits`;
+    return `${url}${separator}utm_source=OiOrbuz&utm_medium=sponsor&utm_campaign=${tier}&ref=OiOrbuz`;
   }
 };
 

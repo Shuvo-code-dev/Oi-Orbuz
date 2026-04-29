@@ -18,13 +18,13 @@ const MANUAL_ASSETS: Record<string, { path: string; dependencyResolution: 'manua
 
 export default defineConfig({
   registry: {
-    name: '@react-bits',
+    name: '@oi-orbuz',
     description:
       'An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces.',
-    homepage: 'https://reactbits.dev',
+    homepage: 'https://oi-orbuz.vercel.app',
     authors: ['David Haz'],
-    bugs: 'https://github.com/DavidHDev/react-bits/issues',
-    repository: 'https://github.com/DavidHDev/react-bits',
+    bugs: 'https://github.com/Shuvo-code-dev/oi-orbuz/issues',
+    repository: 'https://github.com/Shuvo-code-dev/oi-orbuz',
     tags: [
       'react',
       'javascript',

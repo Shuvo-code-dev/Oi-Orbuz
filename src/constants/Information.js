@@ -38,7 +38,7 @@ export const componentMetadata = {
     description: 'Wrapper that animates any children on scroll or mount with configurable direction, distance, duration, easing and disappear options.',
     category: 'Animations',
     name: 'AnimatedContent',
-    docsUrl: 'https://reactbits.dev/animations/animated-content',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/animated-content',
     tags: []
   },
   'Animations/BlobCursor': {
@@ -46,7 +46,7 @@ export const componentMetadata = {
     description: 'Organic blob cursor that smoothly follows the pointer with inertia and elastic morphing.',
     category: 'Animations',
     name: 'BlobCursor',
-    docsUrl: 'https://reactbits.dev/animations/blob-cursor',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/blob-cursor',
     tags: []
   },
   'Animations/ClickSpark': {
@@ -54,7 +54,7 @@ export const componentMetadata = {
     description: 'Creates particle spark bursts at click position.',
     category: 'Animations',
     name: 'ClickSpark',
-    docsUrl: 'https://reactbits.dev/animations/click-spark',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/click-spark',
     tags: []
   },
   'Animations/Crosshair': {
@@ -62,7 +62,7 @@ export const componentMetadata = {
     description: 'Custom crosshair cursor with tracking, and link hover effects.',
     category: 'Animations',
     name: 'Crosshair',
-    docsUrl: 'https://reactbits.dev/animations/crosshair',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/crosshair',
     tags: []
   },
   'Animations/Cubes': {
@@ -70,7 +70,7 @@ export const componentMetadata = {
     description: '3D rotating cube cluster. Supports auto-rotation or hover interaction.',
     category: 'Animations',
     name: 'Cubes',
-    docsUrl: 'https://reactbits.dev/animations/cubes',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/cubes',
     tags: []
   },
   'Animations/ElectricBorder': {
@@ -78,7 +78,7 @@ export const componentMetadata = {
     description: 'Jittery electric energy border with animated arcs, glow and adjustable intensity.',
     category: 'Animations',
     name: 'ElectricBorder',
-    docsUrl: 'https://reactbits.dev/animations/electric-border',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/electric-border',
     tags: []
   },
   'Animations/FadeContent': {
@@ -86,7 +86,7 @@ export const componentMetadata = {
     description: 'Simple directional fade / slide entrance / exit wrapper with threshold-based activation.',
     category: 'Animations',
     name: 'FadeContent',
-    docsUrl: 'https://reactbits.dev/animations/fade-content',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/fade-content',
     tags: []
   },
   'Animations/GlareHover': {
@@ -94,7 +94,7 @@ export const componentMetadata = {
     description: 'Adds a realistic moving glare highlight on hover over any element.',
     category: 'Animations',
     name: 'GlareHover',
-    docsUrl: 'https://reactbits.dev/animations/glare-hover',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/glare-hover',
     tags: []
   },
   'Animations/GradualBlur': {
@@ -102,7 +102,7 @@ export const componentMetadata = {
     description: 'Progressively un-blurs content based on scroll or trigger creating a cinematic reveal.',
     category: 'Animations',
     name: 'GradualBlur',
-    docsUrl: 'https://reactbits.dev/animations/gradual-blur',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/gradual-blur',
     tags: []
   },
   'Animations/GhostCursor': {
@@ -110,7 +110,7 @@ export const componentMetadata = {
     description: 'Semi-transparent ghost cursor that smoothly follows the real cursor with a trailing effect.',
     category: 'Animations',
     name: 'GhostCursor',
-    docsUrl: 'https://reactbits.dev/animations/ghost-cursor',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/ghost-cursor',
     tags: []
   },
   'Animations/ImageTrail': {
@@ -118,7 +118,7 @@ export const componentMetadata = {
     description: 'Cursor-based image trail with several built-in variants.',
     category: 'Animations',
     name: 'ImageTrail',
-    docsUrl: 'https://reactbits.dev/animations/image-trail',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/image-trail',
     tags: []
   },
   'Animations/LogoLoop': {
@@ -126,7 +126,7 @@ export const componentMetadata = {
     description: 'Continuously looping marquee of brand or tech logos with seamless repeat and hover pause.',
     category: 'Animations',
     name: 'LogoLoop',
-    docsUrl: 'https://reactbits.dev/animations/logo-loop',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/logo-loop',
     tags: []
   },
   'Animations/Magnet': {
@@ -134,7 +134,7 @@ export const componentMetadata = {
     description: 'Elements magnetically ease toward the cursor then settle back with spring physics.',
     category: 'Animations',
     name: 'Magnet',
-    docsUrl: 'https://reactbits.dev/animations/magnet',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/magnet',
     tags: []
   },
   'Animations/MagnetLines': {
@@ -142,7 +142,7 @@ export const componentMetadata = {
     description: 'Animated field lines bend toward the cursor.',
     category: 'Animations',
     name: 'MagnetLines',
-    docsUrl: 'https://reactbits.dev/animations/magnet-lines',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/magnet-lines',
     tags: []
   },
   'Animations/MetaBalls': {
@@ -150,7 +150,7 @@ export const componentMetadata = {
     description: 'Liquid metaball blobs that merge and separate with smooth implicit surface animation.',
     category: 'Animations',
     name: 'MetaBalls',
-    docsUrl: 'https://reactbits.dev/animations/meta-balls',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/meta-balls',
     tags: []
   },
   'Animations/MetallicPaint': {
@@ -158,7 +158,7 @@ export const componentMetadata = {
     description: 'Liquid metallic paint shader which can be applied to SVG elements.',
     category: 'Animations',
     name: 'MetallicPaint',
-    docsUrl: 'https://reactbits.dev/animations/metallic-paint',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/metallic-paint',
     tags: []
   },
   'Animations/Noise': {
@@ -166,7 +166,7 @@ export const componentMetadata = {
     description: 'Animated film grain / noise overlay adding subtle texture and motion.',
     category: 'Animations',
     name: 'Noise',
-    docsUrl: 'https://reactbits.dev/animations/noise',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/noise',
     tags: []
   },
   'Animations/PixelTrail': {
@@ -174,7 +174,7 @@ export const componentMetadata = {
     description: 'Pixelated cursor trail emitting fading squares with retro digital feel.',
     category: 'Animations',
     name: 'PixelTrail',
-    docsUrl: 'https://reactbits.dev/animations/pixel-trail',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/pixel-trail',
     tags: []
   },
   'Animations/PixelTransition': {
@@ -182,7 +182,7 @@ export const componentMetadata = {
     description: 'Pixel dissolve transition for content reveal on hover.',
     category: 'Animations',
     name: 'PixelTransition',
-    docsUrl: 'https://reactbits.dev/animations/pixel-transition',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/pixel-transition',
     tags: []
   },
   'Animations/Ribbons': {
@@ -190,7 +190,7 @@ export const componentMetadata = {
     description: 'Flowing responsive ribbons/cursor trail driven by physics and pointer motion.',
     category: 'Animations',
     name: 'Ribbons',
-    docsUrl: 'https://reactbits.dev/animations/ribbons',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/ribbons',
     tags: []
   },
   'Animations/ShapeBlur': {
@@ -198,7 +198,7 @@ export const componentMetadata = {
     description: 'Morphing blurred geometric shape. The effect occurs on hover.',
     category: 'Animations',
     name: 'ShapeBlur',
-    docsUrl: 'https://reactbits.dev/animations/shape-blur',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/shape-blur',
     tags: []
   },
   'Animations/SplashCursor': {
@@ -206,7 +206,7 @@ export const componentMetadata = {
     description: 'Liquid splash burst at cursor with curling ripples and waves.',
     category: 'Animations',
     name: 'SplashCursor',
-    docsUrl: 'https://reactbits.dev/animations/splash-cursor',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/splash-cursor',
     tags: []
   },
   'Animations/StarBorder': {
@@ -214,7 +214,7 @@ export const componentMetadata = {
     description: 'Animated star / sparkle border orbiting content with twinkle pulses.',
     category: 'Animations',
     name: 'StarBorder',
-    docsUrl: 'https://reactbits.dev/animations/star-border',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/star-border',
     tags: []
   },
   'Animations/StickerPeel': {
@@ -222,7 +222,7 @@ export const componentMetadata = {
     description: 'Sticker corner lift + peel interaction using 3D transform and shadow depth.',
     category: 'Animations',
     name: 'StickerPeel',
-    docsUrl: 'https://reactbits.dev/animations/sticker-peel',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/sticker-peel',
     tags: []
   },
   'Animations/TargetCursor': {
@@ -230,7 +230,7 @@ export const componentMetadata = {
     description: 'A cursor follow animation with 4 corners that lock onto targets.',
     category: 'Animations',
     name: 'TargetCursor',
-    docsUrl: 'https://reactbits.dev/animations/target-cursor',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/target-cursor',
     tags: []
   },
   'Animations/LaserFlow': {
@@ -238,7 +238,7 @@ export const componentMetadata = {
     description: 'Dynamic laser light that flows onto a surface, customizable effect.',
     category: 'Animations',
     name: 'LaserFlow',
-    docsUrl: 'https://reactbits.dev/animations/laser-flow',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/laser-flow',
     tags: []
   },
   'Animations/Antigravity': {
@@ -246,7 +246,7 @@ export const componentMetadata = {
     description: '3D antigravity particle field that repels from the cursor with smooth motion.',
     category: 'Animations',
     name: 'Antigravity',
-    docsUrl: 'https://reactbits.dev/animations/antigravity',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/antigravity',
     tags: []
   },
   'Animations/OrbitImages': {
@@ -254,7 +254,7 @@ export const componentMetadata = {
     description: 'SVG Path customizable orbiting images effect',
     category: 'Animations',
     name: 'OrbitImages',
-    docsUrl: 'https://reactbits.dev/animations/orbit-images',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/orbit-images',
     tags: []
   },
   'Animations/MagicRings': {
@@ -262,7 +262,7 @@ export const componentMetadata = {
     description: 'Interactive magic rings effect with customizable parameters.',
     category: 'Animations',
     name: 'MagicRings',
-    docsUrl: 'https://reactbits.dev/animations/magic-rings',
+    docsUrl: 'https://oi-orbuz.vercel.app/animations/magic-rings',
     tags: []
   },
 
@@ -273,7 +273,7 @@ export const componentMetadata = {
     description: 'Renders text with an animated ASCII background for a retro feel.',
     category: 'TextAnimations',
     name: 'ASCIIText',
-    docsUrl: 'https://reactbits.dev/text-animations/ascii-text',
+    docsUrl: 'https://oi-orbuz.vercel.app/text-animations/ascii-text',
     tags: []
   },
   'TextAnimations/BlurText': {
@@ -281,7 +281,7 @@ export const componentMetadata = {
     description: 'Text starts blurred then crisply resolves for a soft-focus reveal effect.',
     category: 'TextAnimations',
     name: 'BlurText',
-    docsUrl: 'https://reactbits.dev/text-animations/blur-text',
+    docsUrl: 'https://oi-orbuz.vercel.app/text-animations/blur-text',
     tags: []
   },
   'TextAnimations/CircularText': {
@@ -289,7 +289,7 @@ export const componentMetadata = {
     description: 'Layouts characters around a circle with optional rotation animation.',
     category: 'TextAnimations',
     name: 'CircularText',
-    docsUrl: 'https://reactbits.dev/text-animations/circular-text',
+    docsUrl: 'https://oi-orbuz.vercel.app/text-animations/circular-text',
     tags: []
   },
   'TextAnimations/CountUp': {
@@ -297,7 +297,7 @@ export const componentMetadata = {
     description: 'Animated number counter supporting formatting and decimals.',
     category: 'TextAnimations',
     name: 'CountUp',
-    docsUrl: 'https://reactbits.dev/text-animations/count-up',
+    docsUrl: 'https://oi-orbuz.vercel.app/text-animations/count-up',
     tags: []
   },
   'TextAnimations/CurvedLoop': {
@@ -305,7 +305,7 @@ export const componentMetadata = {
     description: 'Flowing looping text path along a customizable curve with drag interaction.',
     category: 'TextAnimations',
     name: 'CurvedLoop',
-    docsUrl: 'https://reactbits.dev/text-animations/curved-loop',
+    docsUrl: 'https://oi-orbuz.vercel.app/text-animations/curved-loop',
     tags: []
   },
   'TextAnimations/DecryptedText': {
@@ -313,7 +313,7 @@ export const componentMetadata = {
     description: 'Hacker-style decryption cycling random glyphs until resolving to real text.',
     category: 'TextAnimations',
     name: 'DecryptedText',
-    docsUrl: 'https://reactbits.dev/text-animations/decrypted-text',
+    docsUrl: 'https://oi-orbuz.vercel.app/text-animations/decrypted-text',
     tags: []
   },
   'TextAnimations/FallingText': {
@@ -321,7 +321,7 @@ export const componentMetadata = {
     description: 'Characters fall with gravity + bounce creating a playful entrance.',
     category: 'TextAnimations',
     name: 'FallingText',
-    docsUrl: 'https://reactbits.dev/text-animations/falling-text',
+    docsUrl: 'https://oi-orbuz.vercel.app/text-animations/falling-text',
     tags: []
   },
   'TextAnimations/FuzzyText': {
@@ -329,7 +329,7 @@ export const componentMetadata = {
     description: 'Vibrating fuzzy text with controllable hover intensity.',
     category: 'TextAnimations',
     name: 'FuzzyText',
-    docsUrl: 'https://reactbits.dev/text-animations/fuzzy-text',
+    docsUrl: 'https://oi-orbuz.vercel.app/text-animations/fuzzy-text',
     tags: []
   },
   'TextAnimations/GlitchText': {
@@ -337,7 +337,7 @@ export const componentMetadata = {
     description: 'RGB split and distortion glitch effect with jitter effects.',
     category: 'TextAnimations',
     name: 'GlitchText',
-    docsUrl: 'https://reactbits.dev/text-animations/glitch-text',
+    docsUrl: 'https://oi-orbuz.vercel.app/text-animations/glitch-text',
     tags: []
   },
   'TextAnimations/GradientText': {
@@ -345,7 +345,7 @@ export const componentMetadata = {
     description: 'Animated gradient sweep across live text with speed and color control.',
     category: 'TextAnimations',
     name: 'GradientText',
-    docsUrl: 'https://reactbits.dev/text-animations/gradient-text',
+    docsUrl: 'https://oi-orbuz.vercel.app/text-animations/gradient-text',
     tags: []
   },
   'TextAnimations/RotatingText': {
@@ -353,7 +353,7 @@ export const componentMetadata = {
     description: 'Cycles through multiple phrases with 3D rotate / flip transitions.',
     category: 'TextAnimations',
     name: 'RotatingText',
-    docsUrl: 'https://reactbits.dev/text-animations/rotating-text',
+    docsUrl: 'https://oi-orbuz.vercel.app/text-animations/rotating-text',
     tags: []
   },
   'TextAnimations/ScrambledText': {
@@ -361,7 +361,7 @@ export const componentMetadata = {
     description: 'Detects cursor position and applies a distortion effect to text.',
     category: 'TextAnimations',
     name: 'ScrambledText',
-    docsUrl: 'https://reactbits.dev/text-animations/scrambled-text',
+    docsUrl: 'https://oi-orbuz.vercel.app/text-animations/scrambled-text',
     tags: []
   },
   'TextAnimations/ScrollFloat': {
@@ -369,7 +369,7 @@ export const componentMetadata = {
     description: 'Text gently floats / parallax shifts on scroll.',
     category: 'TextAnimations',
     name: 'ScrollFloat',
-    docsUrl: 'https://reactbits.dev/text-animations/scroll-float',
+    docsUrl: 'https://oi-orbuz.vercel.app/text-animations/scroll-float',
     tags: []
   },
   'TextAnimations/ScrollReveal': {
@@ -377,7 +377,7 @@ export const componentMetadata = {
     description: 'Text gently unblurs and reveals on scroll.',
     category: 'TextAnimations',
     name: 'ScrollReveal',
-    docsUrl: 'https://reactbits.dev/text-animations/scroll-reveal',
+    docsUrl: 'https://oi-orbuz.vercel.app/text-animations/scroll-reveal',
     tags: []
   },
   'TextAnimations/ScrollVelocity': {
@@ -385,7 +385,7 @@ export const componentMetadata = {
     description: "Text marquee animatio - speed and distortion scale with user's scroll velocity.",
     category: 'TextAnimations',
     name: 'ScrollVelocity',
-    docsUrl: 'https://reactbits.dev/text-animations/scroll-velocity',
+    docsUrl: 'https://oi-orbuz.vercel.app/text-animations/scroll-velocity',
     tags: []
   },
   'TextAnimations/ShinyText': {
@@ -393,7 +393,7 @@ export const componentMetadata = {
     description: 'Metallic sheen sweeps across text producing a reflective highlight.',
     category: 'TextAnimations',
     name: 'ShinyText',
-    docsUrl: 'https://reactbits.dev/text-animations/shiny-text',
+    docsUrl: 'https://oi-orbuz.vercel.app/text-animations/shiny-text',
     tags: []
   },
   'TextAnimations/SplitText': {
@@ -401,7 +401,7 @@ export const componentMetadata = {
     description: 'Splits text into characters / words for staggered entrance animation.',
     category: 'TextAnimations',
     name: 'SplitText',
-    docsUrl: 'https://reactbits.dev/text-animations/split-text',
+    docsUrl: 'https://oi-orbuz.vercel.app/text-animations/split-text',
     tags: []
   },
   'TextAnimations/TextCursor': {
@@ -409,7 +409,7 @@ export const componentMetadata = {
     description: 'Make any text element follow your cursor, leaving a trail of copies behind it.',
     category: 'TextAnimations',
     name: 'TextCursor',
-    docsUrl: 'https://reactbits.dev/text-animations/text-cursor',
+    docsUrl: 'https://oi-orbuz.vercel.app/text-animations/text-cursor',
     tags: []
   },
   'TextAnimations/TextPressure': {
@@ -417,7 +417,7 @@ export const componentMetadata = {
     description: 'Characters scale / warp interactively based on pointer pressure zone.',
     category: 'TextAnimations',
     name: 'TextPressure',
-    docsUrl: 'https://reactbits.dev/text-animations/text-pressure',
+    docsUrl: 'https://oi-orbuz.vercel.app/text-animations/text-pressure',
     tags: []
   },
   'TextAnimations/TextType': {
@@ -425,7 +425,7 @@ export const componentMetadata = {
     description: 'Typewriter effect with blinking cursor and adjustable typing cadence.',
     category: 'TextAnimations',
     name: 'TextType',
-    docsUrl: 'https://reactbits.dev/text-animations/text-type',
+    docsUrl: 'https://oi-orbuz.vercel.app/text-animations/text-type',
     tags: []
   },
   'TextAnimations/TrueFocus': {
@@ -433,7 +433,7 @@ export const componentMetadata = {
     description: 'Applies dynamic blur / clarity based over a series of words in order.',
     category: 'TextAnimations',
     name: 'TrueFocus',
-    docsUrl: 'https://reactbits.dev/text-animations/true-focus',
+    docsUrl: 'https://oi-orbuz.vercel.app/text-animations/true-focus',
     tags: []
   },
   'TextAnimations/VariableProximity': {
@@ -441,7 +441,7 @@ export const componentMetadata = {
     description: 'Letter styling changes continuously with pointer distance mapping.',
     category: 'TextAnimations',
     name: 'VariableProximity',
-    docsUrl: 'https://reactbits.dev/text-animations/variable-proximity',
+    docsUrl: 'https://oi-orbuz.vercel.app/text-animations/variable-proximity',
     tags: []
   },
   'TextAnimations/Shuffle': {
@@ -449,7 +449,7 @@ export const componentMetadata = {
     description: 'Animated text reveal where characters shuffle before settling.',
     category: 'TextAnimations',
     name: 'Shuffle',
-    docsUrl: 'https://reactbits.dev/text-animations/shuffle',
+    docsUrl: 'https://oi-orbuz.vercel.app/text-animations/shuffle',
     tags: []
   },
 
@@ -459,7 +459,7 @@ export const componentMetadata = {
     description: 'List items enter with staggered motion variants for polished reveals.',
     category: 'Components',
     name: 'AnimatedList',
-    docsUrl: 'https://reactbits.dev/components/animated-list',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/animated-list',
     tags: []
   },
   'Components/BounceCards': {
@@ -467,7 +467,7 @@ export const componentMetadata = {
     description: 'Cards bounce that bounce in on mount.',
     category: 'Components',
     name: 'BounceCards',
-    docsUrl: 'https://reactbits.dev/components/bounce-cards',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/bounce-cards',
     tags: []
   },
   'Components/BubbleMenu': {
@@ -475,7 +475,7 @@ export const componentMetadata = {
     description: 'Floating circular expanding menu with staggered item reveal.',
     category: 'Components',
     name: 'BubbleMenu',
-    docsUrl: 'https://reactbits.dev/components/bubble-menu',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/bubble-menu',
     tags: []
   },
   'Components/CardNav': {
@@ -483,7 +483,7 @@ export const componentMetadata = {
     description: 'Expandable navigation bar with card panels revealing nested links.',
     category: 'Components',
     name: 'CardNav',
-    docsUrl: 'https://reactbits.dev/components/card-nav',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/card-nav',
     tags: []
   },
   'Components/CardSwap': {
@@ -491,7 +491,7 @@ export const componentMetadata = {
     description: 'Cards animate position swapping with smooth layout transitions.',
     category: 'Components',
     name: 'CardSwap',
-    docsUrl: 'https://reactbits.dev/components/card-swap',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/card-swap',
     tags: []
   },
   'Components/Carousel': {
@@ -499,7 +499,7 @@ export const componentMetadata = {
     description: 'Responsive carousel with touch gestures, looping and transitions.',
     category: 'Components',
     name: 'Carousel',
-    docsUrl: 'https://reactbits.dev/components/carousel',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/carousel',
     tags: []
   },
   'Components/ChromaGrid': {
@@ -507,7 +507,7 @@ export const componentMetadata = {
     description: 'A responsive grid of grayscale tiles. Hovering the grid reaveals their colors.',
     category: 'Components',
     name: 'ChromaGrid',
-    docsUrl: 'https://reactbits.dev/components/chroma-grid',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/chroma-grid',
     tags: []
   },
   'Components/CircularGallery': {
@@ -515,7 +515,7 @@ export const componentMetadata = {
     description: 'Circular orbit gallery rotating images.',
     category: 'Components',
     name: 'CircularGallery',
-    docsUrl: 'https://reactbits.dev/components/circular-gallery',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/circular-gallery',
     tags: []
   },
   'Components/Counter': {
@@ -523,7 +523,7 @@ export const componentMetadata = {
     description: 'Flexible animated counter supporting increments + easing.',
     category: 'Components',
     name: 'Counter',
-    docsUrl: 'https://reactbits.dev/components/counter',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/counter',
     tags: []
   },
   'Components/DecayCard': {
@@ -531,7 +531,7 @@ export const componentMetadata = {
     description: 'Hover parallax effect that disintegrates the content of a card.',
     category: 'Components',
     name: 'DecayCard',
-    docsUrl: 'https://reactbits.dev/components/decay-card',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/decay-card',
     tags: []
   },
   'Components/Dock': {
@@ -539,7 +539,7 @@ export const componentMetadata = {
     description: 'macOS style magnifying dock with proximity scaling of icons.',
     category: 'Components',
     name: 'Dock',
-    docsUrl: 'https://reactbits.dev/components/dock',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/dock',
     tags: []
   },
   'Components/DomeGallery': {
@@ -547,7 +547,7 @@ export const componentMetadata = {
     description: 'Immersive 3D dome gallery projecting images on a hemispheric surface.',
     category: 'Components',
     name: 'DomeGallery',
-    docsUrl: 'https://reactbits.dev/components/dome-gallery',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/dome-gallery',
     tags: []
   },
   'Components/ElasticSlider': {
@@ -555,7 +555,7 @@ export const componentMetadata = {
     description: 'Slider handle stretches elastically then snaps with spring physics.',
     category: 'Components',
     name: 'ElasticSlider',
-    docsUrl: 'https://reactbits.dev/components/elastic-slider',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/elastic-slider',
     tags: []
   },
   'Components/FlowingMenu': {
@@ -563,7 +563,7 @@ export const componentMetadata = {
     description: 'Liquid flowing active indicator glides between menu items.',
     category: 'Components',
     name: 'FlowingMenu',
-    docsUrl: 'https://reactbits.dev/components/flowing-menu',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/flowing-menu',
     tags: []
   },
   'Components/FluidGlass': {
@@ -571,7 +571,7 @@ export const componentMetadata = {
     description: 'Glassmorphism container with animated liquid distortion refraction.',
     category: 'Components',
     name: 'FluidGlass',
-    docsUrl: 'https://reactbits.dev/components/fluid-glass',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/fluid-glass',
     tags: []
   },
   'Components/FlyingPosters': {
@@ -579,7 +579,7 @@ export const componentMetadata = {
     description: '3D posters rotate on scroll infinitely.',
     category: 'Components',
     name: 'FlyingPosters',
-    docsUrl: 'https://reactbits.dev/components/flying-posters',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/flying-posters',
     tags: []
   },
   'Components/Folder': {
@@ -587,7 +587,7 @@ export const componentMetadata = {
     description: 'Interactive folder opens to reveal nested content smooth motion.',
     category: 'Components',
     name: 'Folder',
-    docsUrl: 'https://reactbits.dev/components/folder',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/folder',
     tags: []
   },
   'Components/GlassIcons': {
@@ -595,7 +595,7 @@ export const componentMetadata = {
     description: 'Icon set styled with frosted glass blur.',
     category: 'Components',
     name: 'GlassIcons',
-    docsUrl: 'https://reactbits.dev/components/glass-icons',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/glass-icons',
     tags: []
   },
   'Components/GlassSurface': {
@@ -603,7 +603,7 @@ export const componentMetadata = {
     description: 'Advanced Apple-style glass surface with real-time distortion + lighting.',
     category: 'Components',
     name: 'GlassSurface',
-    docsUrl: 'https://reactbits.dev/components/glass-surface',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/glass-surface',
     tags: []
   },
   'Components/GooeyNav': {
@@ -611,7 +611,7 @@ export const componentMetadata = {
     description: 'Navigation indicator morphs with gooey blob transitions between items.',
     category: 'Components',
     name: 'GooeyNav',
-    docsUrl: 'https://reactbits.dev/components/gooey-nav',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/gooey-nav',
     tags: []
   },
   'Components/InfiniteMenu': {
@@ -619,7 +619,7 @@ export const componentMetadata = {
     description: 'Horizontally looping menu effect that scrolls endlessly with seamless wrap.',
     category: 'Components',
     name: 'InfiniteMenu',
-    docsUrl: 'https://reactbits.dev/components/infinite-menu',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/infinite-menu',
     tags: []
   },
   'Components/Lanyard': {
@@ -627,7 +627,7 @@ export const componentMetadata = {
     description: 'Swinging 3D lanyard / badge card with realistic inertial motion.',
     category: 'Components',
     name: 'Lanyard',
-    docsUrl: 'https://reactbits.dev/components/lanyard',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/lanyard',
     tags: []
   },
   'Components/MagicBento': {
@@ -635,7 +635,7 @@ export const componentMetadata = {
     description: 'Interactive bento grid tiles expand + animate with various options.',
     category: 'Components',
     name: 'MagicBento',
-    docsUrl: 'https://reactbits.dev/components/magic-bento',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/magic-bento',
     tags: []
   },
   'Components/Masonry': {
@@ -643,7 +643,7 @@ export const componentMetadata = {
     description: 'Responsive masonry layout with animated reflow + gaps optimization.',
     category: 'Components',
     name: 'Masonry',
-    docsUrl: 'https://reactbits.dev/components/masonry',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/masonry',
     tags: []
   },
   'Components/ModelViewer': {
@@ -651,7 +651,7 @@ export const componentMetadata = {
     description: 'Three.js model viewer with orbit controls and lighting presets.',
     category: 'Components',
     name: 'ModelViewer',
-    docsUrl: 'https://reactbits.dev/components/model-viewer',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/model-viewer',
     tags: []
   },
   'Components/PillNav': {
@@ -659,7 +659,7 @@ export const componentMetadata = {
     description: 'Minimal pill nav with sliding active highlight + smooth easing.',
     category: 'Components',
     name: 'PillNav',
-    docsUrl: 'https://reactbits.dev/components/pill-nav',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/pill-nav',
     tags: []
   },
   'Components/PixelCard': {
@@ -667,7 +667,7 @@ export const componentMetadata = {
     description: 'Card content revealed through pixel expansion transition.',
     category: 'Components',
     name: 'PixelCard',
-    docsUrl: 'https://reactbits.dev/components/pixel-card',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/pixel-card',
     tags: []
   },
   'Components/ProfileCard': {
@@ -675,7 +675,7 @@ export const componentMetadata = {
     description: 'Animated profile card glare with 3D hover effect.',
     category: 'Components',
     name: 'ProfileCard',
-    docsUrl: 'https://reactbits.dev/components/profile-card',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/profile-card',
     tags: []
   },
   'Components/ScrollStack': {
@@ -683,7 +683,7 @@ export const componentMetadata = {
     description: 'Overlapping card stack reveals on scroll with depth layering.',
     category: 'Components',
     name: 'ScrollStack',
-    docsUrl: 'https://reactbits.dev/components/scroll-stack',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/scroll-stack',
     tags: []
   },
   'Components/SpotlightCard': {
@@ -691,7 +691,7 @@ export const componentMetadata = {
     description: 'Dynamic spotlight follows cursor casting gradient illumination.',
     category: 'Components',
     name: 'SpotlightCard',
-    docsUrl: 'https://reactbits.dev/components/spotlight-card',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/spotlight-card',
     tags: []
   },
   'Components/BorderGlow': {
@@ -699,7 +699,7 @@ export const componentMetadata = {
     description: 'Glowing mesh-gradient border that follows cursor direction and intensifies near edges.',
     category: 'Components',
     name: 'BorderGlow',
-    docsUrl: 'https://reactbits.dev/components/border-glow',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/border-glow',
     tags: []
   },
   'Components/Stack': {
@@ -707,7 +707,7 @@ export const componentMetadata = {
     description: 'Layered stack with swipe animations, autoplay and smooth transitions.',
     category: 'Components',
     name: 'Stack',
-    docsUrl: 'https://reactbits.dev/components/stack',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/stack',
     tags: []
   },
   'Components/Stepper': {
@@ -715,7 +715,7 @@ export const componentMetadata = {
     description: 'Animated multi-step progress indicator with active state transitions.',
     category: 'Components',
     name: 'Stepper',
-    docsUrl: 'https://reactbits.dev/components/stepper',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/stepper',
     tags: []
   },
   'Components/TiltedCard': {
@@ -723,7 +723,7 @@ export const componentMetadata = {
     description: '3D perspective tilt card reacting to pointer.',
     category: 'Components',
     name: 'TiltedCard',
-    docsUrl: 'https://reactbits.dev/components/tilted-card',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/tilted-card',
     tags: []
   },
   'Components/StaggeredMenu': {
@@ -731,7 +731,7 @@ export const componentMetadata = {
     description: 'Menu with staggered item animations and smooth transitions on open/close.',
     category: 'Components',
     name: 'StaggeredMenu',
-    docsUrl: 'https://reactbits.dev/components/staggered-menu',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/staggered-menu',
     tags: []
   },
   'Components/ReflectiveCard': {
@@ -739,7 +739,7 @@ export const componentMetadata = {
     description: 'Card with dynamic webcam reflection and glare effects that respond to cursor movement.',
     category: 'Components',
     name: 'ReflectiveCard',
-    docsUrl: 'https://reactbits.dev/components/reflective-card',
+    docsUrl: 'https://oi-orbuz.vercel.app/components/reflective-card',
     tags: []
   },
 
@@ -749,7 +749,7 @@ export const componentMetadata = {
     description: 'Flowing aurora gradient background.',
     category: 'Backgrounds',
     name: 'Aurora',
-    docsUrl: 'https://reactbits.dev/backgrounds/aurora',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/aurora',
     tags: []
   },
   'Backgrounds/Balatro': {
@@ -757,7 +757,7 @@ export const componentMetadata = {
     description: 'The balatro shader, fully customizalbe and interactive.',
     category: 'Backgrounds',
     name: 'Balatro',
-    docsUrl: 'https://reactbits.dev/backgrounds/balatro',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/balatro',
     tags: []
   },
   'Backgrounds/Ballpit': {
@@ -765,7 +765,7 @@ export const componentMetadata = {
     description: 'Physics ball pit simulation with bouncing colorful spheres.',
     category: 'Backgrounds',
     name: 'Ballpit',
-    docsUrl: 'https://reactbits.dev/backgrounds/ballpit',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/ballpit',
     tags: []
   },
   'Backgrounds/Beams': {
@@ -773,7 +773,7 @@ export const componentMetadata = {
     description: 'Crossing animated ribbons with customizable properties.',
     category: 'Backgrounds',
     name: 'Beams',
-    docsUrl: 'https://reactbits.dev/backgrounds/beams',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/beams',
     tags: []
   },
   'Backgrounds/ColorBends': {
@@ -781,7 +781,7 @@ export const componentMetadata = {
     description: 'Vibrant color bends with smooth flowing animation.',
     category: 'Backgrounds',
     name: 'ColorBends',
-    docsUrl: 'https://reactbits.dev/backgrounds/color-bends',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/color-bends',
     tags: []
   },
   'Backgrounds/DarkVeil': {
@@ -789,7 +789,7 @@ export const componentMetadata = {
     description: 'Subtle dark background with a smooth animation and postprocessing.',
     category: 'Backgrounds',
     name: 'DarkVeil',
-    docsUrl: 'https://reactbits.dev/backgrounds/dark-veil',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/dark-veil',
     tags: []
   },
   'Backgrounds/Dither': {
@@ -797,7 +797,7 @@ export const componentMetadata = {
     description: 'Retro dithered noise shader background.',
     category: 'Backgrounds',
     name: 'Dither',
-    docsUrl: 'https://reactbits.dev/backgrounds/dither',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/dither',
     tags: []
   },
   'Backgrounds/DotField': {
@@ -805,7 +805,7 @@ export const componentMetadata = {
     description: 'Interactive dot grid with cursor bulge, glow, sparkle, and wave effects.',
     category: 'Backgrounds',
     name: 'DotField',
-    docsUrl: 'https://reactbits.dev/backgrounds/dot-field',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/dot-field',
     tags: []
   },
   'Backgrounds/DotGrid': {
@@ -813,7 +813,7 @@ export const componentMetadata = {
     description: 'Animated dot grid with cursor interactions.',
     category: 'Backgrounds',
     name: 'DotGrid',
-    docsUrl: 'https://reactbits.dev/backgrounds/dot-grid',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/dot-grid',
     tags: []
   },
   'Backgrounds/FaultyTerminal': {
@@ -821,7 +821,7 @@ export const componentMetadata = {
     description: 'Terminal CRT scanline squares effect with flicker + noise.',
     category: 'Backgrounds',
     name: 'FaultyTerminal',
-    docsUrl: 'https://reactbits.dev/backgrounds/faulty-terminal',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/faulty-terminal',
     tags: []
   },
   'Backgrounds/Galaxy': {
@@ -829,7 +829,7 @@ export const componentMetadata = {
     description: 'Parallax realistic starfield with pointer interactions.',
     category: 'Backgrounds',
     name: 'Galaxy',
-    docsUrl: 'https://reactbits.dev/backgrounds/galaxy',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/galaxy',
     tags: []
   },
   'Backgrounds/GradientBlinds': {
@@ -837,7 +837,7 @@ export const componentMetadata = {
     description: 'Layered gradient blinds with spotlight and noise distortion.',
     category: 'Backgrounds',
     name: 'GradientBlinds',
-    docsUrl: 'https://reactbits.dev/backgrounds/gradient-blinds',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/gradient-blinds',
     tags: []
   },
   'Backgrounds/Grainient': {
@@ -845,7 +845,7 @@ export const componentMetadata = {
     description: 'Grainy gradient swirls with soft wave distortion.',
     category: 'Backgrounds',
     name: 'Grainient',
-    docsUrl: 'https://reactbits.dev/backgrounds/grainient',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/grainient',
     tags: []
   },
   'Backgrounds/GridScan': {
@@ -853,7 +853,7 @@ export const componentMetadata = {
     description: 'Animated grid room 3D scan effect and cool interactions.',
     category: 'Backgrounds',
     name: 'GridScan',
-    docsUrl: 'https://reactbits.dev/backgrounds/grid-scan',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/grid-scan',
     tags: []
   },
   'Backgrounds/GridDistortion': {
@@ -861,7 +861,7 @@ export const componentMetadata = {
     description: 'Warped grid mesh distorts smoothly reacting to cursor.',
     category: 'Backgrounds',
     name: 'GridDistortion',
-    docsUrl: 'https://reactbits.dev/backgrounds/grid-distortion',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/grid-distortion',
     tags: []
   },
   'Backgrounds/GridMotion': {
@@ -869,7 +869,7 @@ export const componentMetadata = {
     description: 'Perspective moving grid lines based on cusror position.',
     category: 'Backgrounds',
     name: 'GridMotion',
-    docsUrl: 'https://reactbits.dev/backgrounds/grid-motion',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/grid-motion',
     tags: []
   },
   'Backgrounds/Hyperspeed': {
@@ -877,7 +877,7 @@ export const componentMetadata = {
     description: 'Animated lines continuously moving to simulate hyperspace travel on click hold.',
     category: 'Backgrounds',
     name: 'Hyperspeed',
-    docsUrl: 'https://reactbits.dev/backgrounds/hyperspeed',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/hyperspeed',
     tags: []
   },
   'Backgrounds/Iridescence': {
@@ -885,7 +885,7 @@ export const componentMetadata = {
     description: 'Slick iridescent shader with shifting waves.',
     category: 'Backgrounds',
     name: 'Iridescence',
-    docsUrl: 'https://reactbits.dev/backgrounds/iridescence',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/iridescence',
     tags: []
   },
   'Backgrounds/LetterGlitch': {
@@ -893,7 +893,7 @@ export const componentMetadata = {
     description: 'Matrix style letter animation.',
     category: 'Backgrounds',
     name: 'LetterGlitch',
-    docsUrl: 'https://reactbits.dev/backgrounds/letter-glitch',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/letter-glitch',
     tags: []
   },
   'Backgrounds/LightRays': {
@@ -901,7 +901,7 @@ export const componentMetadata = {
     description: 'Volumetric light rays/beams with customizable direction.',
     category: 'Backgrounds',
     name: 'LightRays',
-    docsUrl: 'https://reactbits.dev/backgrounds/light-rays',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/light-rays',
     tags: []
   },
   'Backgrounds/Lightning': {
@@ -909,7 +909,7 @@ export const componentMetadata = {
     description: 'Procedural lightning bolts with branching and glow flicker.',
     category: 'Backgrounds',
     name: 'Lightning',
-    docsUrl: 'https://reactbits.dev/backgrounds/lightning',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/lightning',
     tags: []
   },
   'Backgrounds/LineWaves': {
@@ -917,7 +917,7 @@ export const componentMetadata = {
     description: 'Animated line wave pattern with colorful warped distortion.',
     category: 'Backgrounds',
     name: 'LineWaves',
-    docsUrl: 'https://reactbits.dev/backgrounds/line-waves',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/line-waves',
     tags: []
   },
   'Backgrounds/EvilEye': {
@@ -925,7 +925,7 @@ export const componentMetadata = {
     description: 'Procedural evil eye shader with animated iris, slit pupil, and fiery outer glow.',
     category: 'Backgrounds',
     name: 'EvilEye',
-    docsUrl: 'https://reactbits.dev/backgrounds/evil-eye',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/evil-eye',
     tags: []
   },
   'Backgrounds/Radar': {
@@ -933,7 +933,7 @@ export const componentMetadata = {
     description: 'Radar sweep effect with concentric rings, radial spokes, and a rotating beam.',
     category: 'Backgrounds',
     name: 'Radar',
-    docsUrl: 'https://reactbits.dev/backgrounds/radar',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/radar',
     tags: []
   },
   'Backgrounds/SoftAurora': {
@@ -941,7 +941,7 @@ export const componentMetadata = {
     description: 'Soft aurora borealis shader with 3D Perlin noise and cosine gradient palettes.',
     category: 'Backgrounds',
     name: 'SoftAurora',
-    docsUrl: 'https://reactbits.dev/backgrounds/soft-aurora',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/soft-aurora',
     tags: []
   },
   'Backgrounds/LiquidChrome': {
@@ -949,7 +949,7 @@ export const componentMetadata = {
     description: 'Liquid metallic chrome shader with flowing reflective surface.',
     category: 'Backgrounds',
     name: 'LiquidChrome',
-    docsUrl: 'https://reactbits.dev/backgrounds/liquid-chrome',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/liquid-chrome',
     tags: []
   },
   'Backgrounds/Orb': {
@@ -957,7 +957,7 @@ export const componentMetadata = {
     description: 'Floating energy orb with customizable hover effect.',
     category: 'Backgrounds',
     name: 'Orb',
-    docsUrl: 'https://reactbits.dev/backgrounds/orb',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/orb',
     tags: []
   },
   'Backgrounds/Particles': {
@@ -965,7 +965,7 @@ export const componentMetadata = {
     description: 'Configurable particle system.',
     category: 'Backgrounds',
     name: 'Particles',
-    docsUrl: 'https://reactbits.dev/backgrounds/particles',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/particles',
     tags: []
   },
   'Backgrounds/PixelBlast': {
@@ -973,7 +973,7 @@ export const componentMetadata = {
     description: 'Exploding pixel particle bursts with optional liquid postprocessing.',
     category: 'Backgrounds',
     name: 'PixelBlast',
-    docsUrl: 'https://reactbits.dev/backgrounds/pixel-blast',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/pixel-blast',
     tags: []
   },
   'Backgrounds/Plasma': {
@@ -981,7 +981,7 @@ export const componentMetadata = {
     description: 'Organic plasma gradients swirl + morph with smooth turbulence.',
     category: 'Backgrounds',
     name: 'Plasma',
-    docsUrl: 'https://reactbits.dev/backgrounds/plasma',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/plasma',
     tags: []
   },
   'Backgrounds/PlasmaWave': {
@@ -989,7 +989,7 @@ export const componentMetadata = {
     description: 'Raymarched plasma waves with dual-wave interference and OGL.',
     category: 'Backgrounds',
     name: 'PlasmaWave',
-    docsUrl: 'https://reactbits.dev/backgrounds/plasma-wave',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/plasma-wave',
     tags: []
   },
   'Backgrounds/Prism': {
@@ -997,7 +997,7 @@ export const componentMetadata = {
     description: 'Rotating prism with configurable intensity, size, and colors.',
     category: 'Backgrounds',
     name: 'Prism',
-    docsUrl: 'https://reactbits.dev/backgrounds/prism',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/prism',
     tags: []
   },
   'Backgrounds/PrismaticBurst': {
@@ -1005,7 +1005,7 @@ export const componentMetadata = {
     description: 'Burst of light rays with controllable color, distortion, amount.',
     category: 'Backgrounds',
     name: 'PrismaticBurst',
-    docsUrl: 'https://reactbits.dev/backgrounds/prismatic-burst',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/prismatic-burst',
     tags: []
   },
   'Backgrounds/RippleGrid': {
@@ -1013,7 +1013,7 @@ export const componentMetadata = {
     description: 'A grid that continuously animates with a ripple effect.',
     category: 'Backgrounds',
     name: 'RippleGrid',
-    docsUrl: 'https://reactbits.dev/backgrounds/ripple-grid',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/ripple-grid',
     tags: []
   },
   'Backgrounds/Silk': {
@@ -1021,7 +1021,7 @@ export const componentMetadata = {
     description: 'Smooth waves background with soft lighting.',
     category: 'Backgrounds',
     name: 'Silk',
-    docsUrl: 'https://reactbits.dev/backgrounds/silk',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/silk',
     tags: []
   },
   'Backgrounds/ShapeGrid': {
@@ -1029,7 +1029,7 @@ export const componentMetadata = {
     description: 'Animated grid with shape variants (square, hexagon, circle, triangle) + direction customization.',
     category: 'Backgrounds',
     name: 'ShapeGrid',
-    docsUrl: 'https://reactbits.dev/backgrounds/shape-grid',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/shape-grid',
     tags: []
   },
   'Backgrounds/Threads': {
@@ -1037,7 +1037,7 @@ export const componentMetadata = {
     description: 'Animated pattern of lines forming a fabric-like motion.',
     category: 'Backgrounds',
     name: 'Threads',
-    docsUrl: 'https://reactbits.dev/backgrounds/threads',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/threads',
     tags: []
   },
   'Backgrounds/Waves': {
@@ -1045,7 +1045,7 @@ export const componentMetadata = {
     description: 'Layered lines that form smooth wave patterns with animation.',
     category: 'Backgrounds',
     name: 'Waves',
-    docsUrl: 'https://reactbits.dev/backgrounds/waves',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/waves',
     tags: []
   },
   'Backgrounds/LiquidEther': {
@@ -1054,7 +1054,7 @@ export const componentMetadata = {
       'Interactive liquid shader with flowing distortion and customizable colors.',
     category: 'Backgrounds',
     name: 'LiquidEther',
-    docsUrl: 'https://reactbits.dev/backgrounds/liquid-ether',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/liquid-ether',
     tags: []
   },
   'Backgrounds/FloatingLines': {
@@ -1062,7 +1062,7 @@ export const componentMetadata = {
     description: '3D floating lines that react to cursor movement.',
     category: 'Backgrounds',
     name: 'FloatingLines',
-    docsUrl: 'https://reactbits.dev/backgrounds/floating-lines',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/floating-lines',
     tags: []
   },
   'Backgrounds/LightPillar': {
@@ -1070,7 +1070,7 @@ export const componentMetadata = {
     description: 'Vertical pillar of light with glow effects.',
     category: 'Backgrounds',
     name: 'LightPillar',
-    docsUrl: 'https://reactbits.dev/backgrounds/light-pillar',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/light-pillar',
     tags: []
   },
   'Backgrounds/PixelSnow': {
@@ -1078,7 +1078,7 @@ export const componentMetadata = {
     description: 'Falling pixelated snow effect with customizable density and speed.',
     category: 'Backgrounds',
     name: 'PixelSnow',
-    docsUrl: 'https://reactbits.dev/backgrounds/pixel-snow',
+    docsUrl: 'https://oi-orbuz.vercel.app/backgrounds/pixel-snow',
     tags: []
   }
 };

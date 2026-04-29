@@ -20,10 +20,10 @@ export const generateCliCommands = (language, style, category, subcategory, depe
   const shadcnVariant = variantForShadcn(language, style);
 
   const componentName = slugToComponentName(subcategory);
-  const baseUrl = 'https://reactbits.dev';
+  const baseUrl = 'https://oi-orbuz.vercel.app';
 
   const jsrepoUrl = `${baseUrl}/r/${componentName}-${shadcnVariant}`;
-  const shadcnUrl = `@react-bits/${componentName}-${shadcnVariant}`;
+  const shadcnUrl = `@oi-orbuz/${componentName}-${shadcnVariant}`;
 
   const prefixCommands = {
     pnpm: 'pnpm dlx',

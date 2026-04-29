@@ -17,13 +17,13 @@ const ShowcasePage = () => {
         <DotField sparkle waveAmplitude={5} dotRadius={2} />
       </div>
       <section className="showcase-page">
-        <title>React Bits - Showcase</title>
+        <title>Oi Orbuz - Showcase</title>
 
         <div className="showcase-header">
           <div className="showcase-header-left">
             <h1 className="showcase-title">Showcase</h1>
             <p className="showcase-subtitle">
-              See how developers around the world are using React Bits in their projects.
+              See how developers around the world are using Oi Orbuz in their projects.
             </p>
           </div>
           <a

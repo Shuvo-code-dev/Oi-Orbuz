@@ -15,13 +15,13 @@ const buildSponsorUrl = (url, tier) => {
   if (!url) return null;
   try {
     const u = new URL(url);
-    u.searchParams.set('utm_source', 'reactbits');
+    u.searchParams.set('utm_source', 'OiOrbuz');
     u.searchParams.set('utm_medium', 'sponsor');
     u.searchParams.set('utm_campaign', tier);
-    u.searchParams.set('ref', 'reactbits');
+    u.searchParams.set('ref', 'OiOrbuz');
     return u.toString();
   } catch {
-    return `${url}${url.includes('?') ? '&' : '?'}utm_source=reactbits&utm_medium=sponsor&utm_campaign=${tier}&ref=reactbits`;
+    return `${url}${url.includes('?') ? '&' : '?'}utm_source=OiOrbuz&utm_medium=sponsor&utm_campaign=${tier}&ref=OiOrbuz`;
   }
 };
 

@@ -249,11 +249,11 @@ export default function ToolsPage() {
 
   useEffect(() => {
     if (!toolId) {
-      document.title = 'React Bits - Tools';
+      document.title = 'Oi Orbuz - Tools';
     } else {
       const tool = TOOLS.find(t => t.id === toolId);
       if (tool) {
-        document.title = `React Bits - ${tool.label}`;
+        document.title = `Oi Orbuz - ${tool.label}`;
       }
     }
   }, [toolId]);
@@ -266,13 +266,13 @@ export default function ToolsPage() {
           <DotField sparkle waveAmplitude={5} dotRadius={2} />
         </div>
         <section className="tools-landing">
-          <title>React Bits - Tools</title>
+          <title>Oi Orbuz - Tools</title>
 
           <div className="tools-landing-header">
             <div className="tools-landing-header-left">
               <h1 className="tools-landing-title">Creative Tools</h1>
               <p className="tools-landing-subtitle">
-                Free utilities to boost your creative workflow and help you get the most out of React Bits in your projects.
+                Free utilities to boost your creative workflow and help you get the most out of Oi Orbuz in your projects.
               </p>
             </div>
           </div>

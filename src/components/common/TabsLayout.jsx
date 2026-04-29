@@ -65,7 +65,7 @@ function buildPrompt(componentName, codeObject, propData, lang, style) {
   const usage = codeObject.usage || '';
   const deps = codeObject.dependencies || '';
 
-  let prompt = `## Integrate the <${componentName} /> component from React Bits
+  let prompt = `## Integrate the <${componentName} /> component from Oi Orbuz
 
 You are helping integrate an open-source React component into an existing application.
 

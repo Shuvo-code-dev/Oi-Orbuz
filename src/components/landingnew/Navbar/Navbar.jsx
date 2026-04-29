@@ -179,7 +179,7 @@ const Navbar = ({ showDocs }) => {
           {!showDocs && (
             <>
               <a
-                href="https://pro.reactbits.dev"
+                href="https://pro.oi-orbuz.vercel.app"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="ln-navbar-pro"

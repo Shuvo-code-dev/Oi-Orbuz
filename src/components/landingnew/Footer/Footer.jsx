@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import { motion } from 'motion/react';
 import { AiFillHeart } from 'react-icons/ai';
-import ReactBitsLogo from '../../../assets/logos/react-bits-logo.svg';
+import OiOrbuzLogo from '../../../assets/logos/oi-orbuz-logo.svg';
 import './Footer.css';
 
 const Footer = () => (
@@ -19,7 +19,7 @@ const Footer = () => (
     >
       <div className="ln-footer-top">
         <div className="ln-footer-brand">
-          <img src={ReactBitsLogo} alt="React Bits" className="ln-footer-logo" />
+          <img src={OiOrbuzLogo} alt="Oi Orbuz" className="ln-footer-logo" />
           <p className="ln-footer-tagline">
             Animated UI components for React.
           </p>
@@ -35,7 +35,7 @@ const Footer = () => (
 
           <div className="ln-footer-col">
             <span className="ln-footer-col-title">Community</span>
-            <a href="https://github.com/DavidHDev/react-bits" target="_blank" rel="noopener noreferrer" className="ln-footer-link">
+            <a href="https://github.com/Shuvo-code-dev/oi-orbuz" target="_blank" rel="noopener noreferrer" className="ln-footer-link">
               GitHub
             </a>
             <a href="https://vue-bits.dev/" target="_blank" rel="noopener noreferrer" className="ln-footer-link">
@@ -48,11 +48,11 @@ const Footer = () => (
       <div className="ln-footer-bottom">
         <p className="ln-footer-attribution">
           Created with <AiFillHeart className="ln-footer-heart" /> by{' '}
-          <a href="https://x.com/davidhdev" target="_blank" rel="noopener noreferrer" className="ln-footer-creator">
-            davidhdev
+          <a href="https://x.com/Shuvo-code-dev" target="_blank" rel="noopener noreferrer" className="ln-footer-creator">
+            Shuvo-code-dev
           </a>
         </p>
-        <p className="ln-footer-copy">© {new Date().getFullYear()} React Bits</p>
+        <p className="ln-footer-copy">© {new Date().getFullYear()} Oi Orbuz</p>
       </div>
     </motion.div>
   </footer>

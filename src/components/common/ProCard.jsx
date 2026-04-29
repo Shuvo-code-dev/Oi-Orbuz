@@ -95,13 +95,13 @@ const ProCard = () => {
   useParticles(canvasRef);
 
   return (
-    <a href="https://pro.reactbits.dev" target="_blank" rel="noopener noreferrer" className="pro-card-link">
+    <a href="https://pro.oi-orbuz.vercel.app" target="_blank" rel="noopener noreferrer" className="pro-card-link">
       <div className="pro-card">
         <canvas ref={canvasRef} className="pro-card-particles" />
         <div className="pro-card-glow" />
         <div className="pro-card-content">
           <span className="pro-card-badge">PRO</span>
-          <h3 className="pro-card-title">Get React Bits Pro</h3>
+          <h3 className="pro-card-title">Get Oi Orbuz Pro</h3>
           <p className="pro-card-desc">
             88+ components, 158+ blocks &amp; 5 templates to ship memorable products faster.
           </p>

@@ -12,7 +12,7 @@ import { CATEGORIES, NEW, UPDATED } from '../../constants/Categories';
 import { componentMap } from '../../constants/Components';
 import { getSavedComponents } from '../../utils/favorites';
 
-import Logo from '../../assets/logos/react-bits-logo.svg';
+import Logo from '../../assets/logos/oi-orbuz-logo.svg';
 import SponsorsCard from '../common/SponsorsCard';
 
 // ─── Constants ───────────────────────────────────────────────────────────────
@@ -113,7 +113,7 @@ const MobileHeader = ({ onSearchClick, onSponsorsClick, onMenuClick }) => (
   <Box display={{ md: 'none' }} position="fixed" top="60px" left={0} zIndex="overlay" w="100%" bg={colors.bgBody} p="1em">
     <Flex align="center" justify="space-between" gap="1em">
       <Link to="/">
-        <Image src={Logo} h="22px" alt="React Bits logo" />
+        <Image src={Logo} h="22px" alt="Oi Orbuz logo" />
       </Link>
       <Flex gap={2}>
         <IconButton px={3} {...ICON_BUTTON_STYLES} aria-label="Sponsors" onClick={onSponsorsClick}>
@@ -174,9 +174,9 @@ const UsefulLinks = ({ onClose }) => (
     </Text>
     <Flex direction="column" gap={2}>
       {[
-        { to: 'https://github.com/DavidHDev/react-bits', label: 'GitHub', external: true },
+        { to: 'https://github.com/Shuvo-code-dev/oi-orbuz', label: 'GitHub', external: true },
         { to: '/showcase', label: 'Showcase' },
-        { to: 'https://x.com/davidhdev', label: 'Who made this?', external: true }
+        { to: 'https://x.com/Shuvo-code-dev', label: 'Who made this?', external: true }
       ].map(({ to, label, external }) => (
         <Link key={to} to={to} target={external ? '_blank' : undefined} onClick={onClose} display="block" mb={2}>
           <Flex alignItems="center" gap="4px">

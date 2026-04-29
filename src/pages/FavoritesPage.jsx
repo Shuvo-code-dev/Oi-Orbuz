@@ -30,7 +30,7 @@ const FavoritesPage = () => {
 
   return (
     <Box>
-      <title>{`React Bits - Favorites`}</title>
+      <title>{`Oi Orbuz - Favorites`}</title>
       <ComponentList title="Favorites" list={savedList} hasDeleteButton sorting="none" />
       <BackToTopButton />
     </Box>

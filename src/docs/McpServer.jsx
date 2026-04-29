@@ -16,9 +16,9 @@ const CLIENTS = [
 ];
 
 const EXAMPLE_PROMPTS = [
-  'Show me all the available backgrounds from the React Bits registry',
-  'Add the Dither background from React Bits to the page, make it purple',
-  'Add a new section which fades in on scroll using FadeContent from React Bits',
+  'Show me all the available backgrounds from the Oi Orbuz registry',
+  'Add the Dither background from Oi Orbuz to the page, make it purple',
+  'Add a new section which fades in on scroll using FadeContent from Oi Orbuz',
 ];
 
 const PromptList = () => (
@@ -84,7 +84,7 @@ const McpServer = () => {
       </p>
 
       <p className="docs-paragraph dim">
-        React Bits encourages the use of the shadcn MCP server to browse, search, and install components using natural
+        Oi Orbuz encourages the use of the shadcn MCP server to browse, search, and install components using natural
         language.
       </p>
 
@@ -94,11 +94,11 @@ const McpServer = () => {
 
       <p className="docs-paragraph">
         Registries are configured in your project&apos;s <span className="docs-highlight">components.json</span> file,
-        where you should first add the <span className="docs-highlight">@react-bits</span> registry:
+        where you should first add the <span className="docs-highlight">@oi-orbuz</span> registry:
       </p>
       <CodeBlock showLineNumbers>{`{
   "registries": {
-    "@react-bits": "https://reactbits.dev/r/{name}.json"
+    "@oi-orbuz": "https://oi-orbuz.vercel.app/r/{name}.json"
   }
 }`}</CodeBlock>
 
